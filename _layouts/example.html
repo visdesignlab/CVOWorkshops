@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+      <hr>
+    </div>
+
+    <div class="wrapper">
+      {% assign example = site.methods | sort: 'example-number' %}
+      {% for method in example %}
+      {% if method.example-number %}
+      <div id="accordion">
+        <div class="card method" data-phase="{{method.phase}}" data-activity="{{method.activity}}" data-ideaspace="{{method.ideaspace}}">
+          <div class="method-header">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#{{method.title}}" aria-expanded="true" aria-controls="{{method.title}}">
+              <h3>{{method.title}}</h3>
+            </button>
+            <div>
+            <div>{{method.phase}}, {{method.ideaspace}}, {{method.activity}}</div>
+            <div class="float-right">{{method.duration}}</div>
+            </div>
+          </span>
+          </div>
+          <div class="method-meta">
+            {{method.summary}}
+          </div>
+
+          <div id="{{method.title}}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="method-body">
+              <h4> Description </h4> {{ method.content }}
+
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </main>
+
+  {% include footer.html %}
+
+</body>
+
+</html>

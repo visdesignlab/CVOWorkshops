@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+      <hr>
+    </div>
+
+    <div class="wrapper">
+      <div>
+        <div class="method-filter-group">
+          <h5 class="inline">Structure:</h5>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn active" data-name='phase' data-value="all">all
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name='phase' data-value="opening">opening
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name='phase' data-value="core">core
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name='phase' data-value="closing">closing
+                </button>
+        </div>
+        <div class="method-filer-group">
+          <h5 class="inline">Ideaspace:</h5>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn active" data-name="ideaspace" data-value="all">all
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name="ideaspace" data-value="divergent">divergent
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name="ideaspace" data-value="convergent">convergent
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name="ideaspace" data-value="interpersonal">interpersonal
+                </button>
+        </div>
+        <div class="method-filer-group">
+          <h5 class="inline">Activity:</h5>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn active" data-name="activity" data-value="all">all
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name="activity" data-value="active">active
+                </button>
+          <button type="button" class="btn btn-xs btn-outline-secondary filter-btn" data-name="activity" data-value="passive">passive
+                </button>
+        </div>
+      </div>
+      <br>
+      {% for method in site.methods %}
+      {% unless method.hidden %}
+      <div id="accordion">
+        <div class="card method" data-phase="{{method.phase}}" data-activity="{{method.activity}}" data-ideaspace="{{method.ideaspace}}">
+          <div class="method-header">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#{{method.title}}" aria-expanded="true" aria-controls="{{method.title}}">
+              <h3>{{method.title}}</h3>
+            </button>
+            <div>
+            <div>{{method.phase}}, {{method.ideaspace}}, {{method.activity}}</div>
+            <div class="float-right">{{method.duration}}</div>
+            </div>
+          </span>
+          </div>
+          <div class="method-meta">
+            {{method.summary}}
+          </div>
+
+          <div id="{{method.title}}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="method-body">
+              <h4> Description </h4> {{ method.content }}
+
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+  </main>
+
+  {% include footer.html %}
+
+</body>
+
+</html>

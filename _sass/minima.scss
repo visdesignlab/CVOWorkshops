@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:     980px;
+
+$on-palm:          600px;
+$on-laptop:        980px;
+
+.audit-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.audit-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.audit-title {
+  margin-top: 0 !important;
+  float: left;
+  padding-left: 0 !important;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.float-right {
+  float: right;
+}
+
+.method-header {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.method-meta {
+  padding-left:1.25rem;
+  padding-right:1.25rem;
+}
+
+.method-body {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  flex: 1 1 auto;
+}
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+        {{ content }}
+    </div>
+    <div class="wrapper">
+        {% assign sorted = site.audits | sort:"start" %}
+        {% for audit in sorted %}
+        <div id="accordion">
+          <div class="card method">
+            <div class="audit-header method-header">
+              <button class="btn btn-link" data-toggle="collapse" data-target="#{{audit.title}}" aria-expanded="true" aria-controls="{{audit.title}}">
+                <h3>{{audit.title}}</h3>
+              </button>
+                <div class="audit-right">
+                  <div>{{audit.start}} 	&mdash; {{audit.end}}</div>
+                  <div>{{audit.type}}</div>
+                </div>
+            </div>
+            <div id="{{audit.title}}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+              <div class="method-body">
+                 {{ audit.content }}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+        </div>
+    </div>
+</main>
+
+{% include footer.html %}
+
+</body>
+
+</html>
