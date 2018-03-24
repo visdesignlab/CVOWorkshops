@@ -22,7 +22,7 @@ paper-authors: E. Kerzner, S. Goodwin, J. Dykes, S. Jones, and M. Meyer
 paper-submission: Submitted to IEEE InfoVis 2018
 
 baseurl: "/VisualizationCreativityWorkshops" # the subpath of your site, e.g. /blog
-url: "https://ethankerzner.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://vdl.sci.utah.edu/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 github: [metadata]
