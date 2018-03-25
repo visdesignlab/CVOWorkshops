@@ -9,12 +9,13 @@ materials: slides/handouts with guidelines
 summary: Establishing guidelines for a creative atmosphere can help to set the tone for the workshop.
 example-number: 1
 ---
+
 To lay a foundation for a creative atmosphere, we introduce guidelines for the workshop. These guidelines can reinforce the need for _collegiality_ and _trust_ in a successful workshop. Example guidelines include:
 - All ideas are valid --- record them!
 - Speak in headlines and follow up with details
 - Beware that facilitators may guide the conversation to stay on topic
 - Switch off all electronic devices
-\\
+
 Although this may be primarily passive, consider ways to encourage _agency_ and _interest_. For example, it could be modified by having participants create their own guidelines for creative participation.
 
 #### Materials

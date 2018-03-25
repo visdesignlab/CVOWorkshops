@@ -14,6 +14,6 @@ Just as the _"Buy a feature"_ method asks participants to prioritize by limiting
 \\
 Drawing on large scale is effective, with the suggestion that one pen color be used for annotation that depicts interaction. The drawings could be used as a basis for discussion, with participants touring sketches displayed on the walls as sketch owners describe the features. They could be combined into system descriptions or used in an hierarchical ranking process.
 
-#### References
+##### References
 - V. Kumar. 101 design methods: a structured approach to driving innovation
 in your organization. Wiley, 2012.
