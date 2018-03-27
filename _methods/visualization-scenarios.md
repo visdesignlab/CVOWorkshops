@@ -3,7 +3,7 @@ layout: default
 title:  Visualization Scenarios
 duration: 45 - 60 min
 phase: core
-ideaspace: converge
+ideaspace: convergent
 activity: active
 materials: paper and pens, perhaps provide storyboard outline on printed sheets. Flipchart is an alternative through which sketches can be sequenced.
 summary: Creating graphical summaries of scenarios for visualization analysis can help develop what tasks need to be supported.
