@@ -9,7 +9,7 @@ permalink: /audit/
 We developed this framework through a two year, cross-institution, international collaboration. Here, we summarize our research process and provide an audit trail of documents produced in our reflective analysis.
 
 \\
-Our reflective collaboration evolved over a period of two years. It started in Nov, 2015 with a seemingly simple question about two workshops: _what could we do better next time?_ Its scope gradually expanded as we explored ideas about why and how to use visualization creativity workshops. During this time, we ran additional workshops, intertwining reflective analysis and action. Our research process is summarized in this timeline.
+Our reflective collaboration evolved over a period of two years. It started in Nov, 2015 with a seemingly simple question about two workshops: _what could we do better next time?_ Its scope gradually expanded as we explored ideas about why and how to use visualization CVO workshops. During this time, we ran additional workshops, intertwining reflective analysis and action. Our research process is summarized in this timeline.
 \\
 \\
 ![timeline](../assets/images/timeline.png)
