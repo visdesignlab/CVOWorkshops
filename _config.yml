@@ -22,7 +22,8 @@ paper-authors: E. Kerzner, S. Goodwin, J. Dykes, S. Jones, and M. Meyer
 paper-submission: Submitted to IEEE InfoVis 2018
 
 baseurl: "CVOWorkshops" # the subpath of your site, e.g. /blog
-url: "http://vdl.sci.utah.edu/" # the base hostname & protocol for your site, twitter_username: jekyllrb
+url: "http://vdl.sci.utah.edu/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
 github_username:  jekyll
 github: [metadata]
 
@@ -38,7 +39,7 @@ collections:
   audits:
     output: false
 
-repository: visdesignlabl/CVOWorkshops.git
+repository: visdesignlab/CVOWorkshops.git
 header_pages:
   - audit.md
   - methods.md
