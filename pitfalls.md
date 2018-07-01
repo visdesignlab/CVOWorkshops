@@ -44,7 +44,7 @@ Test the Methods and Materials
 ### Encourage reflection for validation. 
 
 **Forgetting the Theme.** - Don't forget the theme that was used to pique interest in the first place.
-Use this as the basis for discussion and learning. Questions to consider for the workshop closing include: How well have you addressed the theme? Have the opportunities identified meant that it has expanded, contracted or shifted? Was it the right theme? Have other themes emerged?
+Use this as the basis for discussion and learning. Questions to consider for the workshop closing include: How well have you addressed the theme? Have the opportunities identified meant that it has expanded, contracted or shifted? Was it the right theme? Have other themes emerged? Failing to discuss the theme leaves things a little open ended and may end up in participants reading the workshop preparation materials and wondering whether their initial objectives have been achieved.
 
 ### Promote continued collaboration.
 
