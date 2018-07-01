@@ -72,7 +72,7 @@ During the Workshop Core, the six TACTICs are used to manage methods, and we can
 
 ### Agency
 
-**Sticking to the plan.** - The plan is there to structure things, and you’ve tested it and know that it works. But not allowing motivated participants to change direction can be a mistake. You are encouraging creativity and this can result in participants breaking down some unexpected boundaries. So, donât hold on to your plans too rigidly. Allow participants to change the rules of the game to give them agency and the motivation that can give them the space and permission to come up with ideas. If they ask to change something, see this as a success and show that you are willing to listen and accommodate their needs. Remember - no idea is a bad idea!
+**Sticking to the plan.** - The plan is there to structure things, and you’ve tested it and know that it works. But not allowing motivated participants to change direction can be a mistake. You are encouraging creativity and this can result in participants breaking down some unexpected boundaries. So, don't hold on to your plans too rigidly. Allow participants to change the rules of the game to give them agency and the motivation that can give them the space and permission to come up with ideas. If they ask to change something, see this as a success and show that you are willing to listen and accommodate their needs. Remember - no idea is a bad idea!
 
 ### Collegiality
 
