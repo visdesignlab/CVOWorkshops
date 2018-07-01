@@ -25,7 +25,6 @@ Here are some examples of things that may go wrong if the guidelines that we pro
 **What does that mean?** - Insufficient knowledge of domain vocabulary can limit things and affect trust. Although we have become confident in our ability to design and execute effective workshops, it is easy to forget that effective workshops require that facilitators select methods that will elicit interesting opportunities and lead discussions about the domain topic. Both of these require a command of the domain vocabulary. In some cases, we have relied on collaborators to help us learn vocabulary. But, we have felt that certain workshops could have been more effective --- e.g., may have elicited more interesting ideas, establish stronger rapport with collaborators, ensure shared context --- had we been better prepared with the domain vocabulary. There is scope for using mutual learning as a means to establish rapport, but there is no replacement for effective preparation.
 Test the Methods and Materials
 
-
 ### Test the methods and materials.
 
 **Wrong affordances.** - The materials you use, or even the room you choose, may have the wrong affordances. This pitfall is quite common in our experience, including: 1) in one workshop we bought post-it notes that were the wrong size, which allowed participants to write more than one idea on a note. This made it impossible to reorder or cluster ideas. 2) In another workshop, we used a method that required sketching ideas, but we provided pens with too small of a tip. This encouraged participants to draw details, when we intended for them to draw highly abstracted ideas. In both cases, testing the methods and materials more thoroughly would have avoided this pitfall.
@@ -41,6 +40,11 @@ Test the Methods and Materials
 **We didn’t explain the rules of the game.** - Defining guidelines at the start but not explaining why these are important (i.e. why creativity is important) can be problematic. When this occurs, rules and guidelines are not followed as day continues.
 
 **Colleagues lose focus.** - On one occasion we failed to set the expectations of co-facilitators adequately. During the first activity of the day, all collaborators and co-facilitators were engaged with methods and happily interested in the methods being used. As the day went on, co-facilitators who were not actively participating took out laptops and phones and started working on other methods. This spread to a handful of the participants from the collaborating institution too. The expectations of no laptops and phones should have been explicitly set, and good facilitation involves gentle prompting to engage participants and problem solve if they are finding things challenging or unsure of how to participate.
+
+### Encourage reflection for validation. 
+
+**Forgetting the Theme.** - Don't forget the theme that was used to pique interest in the first place.
+Use this as the basis for discussion and learning. Questions to consider for the workshop closing include: How well have you addressed the theme? Have the opportunities identified meant that it has expanded, contracted or shifted? Was it the right theme? Have other themes emerged?
 
 ### Promote continued collaboration.
 
