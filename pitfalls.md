@@ -6,13 +6,13 @@ permalink: /pitfalls/
 
 # Pitfalls
 
-While creating this framework we identified a list of 21 pitfalls to avoid in future workshops. These are documented against Guidelines and the TACTICs that we use when implementing them, but we encourage you to identify relationships and connections between each.
+This page contains a list of pitfalls to avoid in future workshops. We document the pitfalls in the context of the guidelines for future workshops and the TACTICs for effective workshops. Yet, the concepts in these pitfalls are interdependent. We encourage you to identify relationships and connections between them.
 
 * * *
 
 ## Guidelines
 
-Here are some examples of things that may go wrong if the guidelines that we provide through the framework are not followed. Indeed, they have gone wrong in at least one of our workshops …​
+Here are pitfalls that we have encountered in the context of the framework's guidelines:
 
 ### Recruit diverse and creative participants.
 
@@ -41,7 +41,7 @@ Test the Methods and Materials
 
 **Colleagues lose focus.** - On one occasion we failed to set the expectations of co-facilitators adequately. During the first activity of the day, all collaborators and co-facilitators were engaged with methods and happily interested in the methods being used. As the day went on, co-facilitators who were not actively participating took out laptops and phones and started working on other methods. This spread to a handful of the participants from the collaborating institution too. The expectations of no laptops and phones should have been explicitly set, and good facilitation involves gentle prompting to engage participants and problem solve if they are finding things challenging or unsure of how to participate.
 
-### Encourage reflection for validation. 
+### Encourage reflection for validation.
 
 **Forgetting the Theme.** - Don't forget the theme that was used to pique interest in the first place.
 Use this as the basis for discussion and learning. Questions to consider for the workshop closing include: How well have you addressed the theme? Have the opportunities identified meant that it has expanded, contracted or shifted? Was it the right theme? Have other themes emerged? Failing to discuss the theme leaves things a little open ended and may end up in participants reading the workshop preparation materials and wondering whether their initial objectives have been achieved.
