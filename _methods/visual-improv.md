@@ -17,4 +17,5 @@ After a few minutes of drawing, participants can be asked to find three pictures
 When facilitated effectively, this is a high-energy method that can engage participants --- garnering _interest_ in the workshop. It encourages _agency_ as participants express themselves through sketching. Importantly, it also prepares participants to think visually, a key part of the _topic_.
 
 #### Materials
-markers for drawing; butcher paper or poster board
+- markers for drawing
+- butcher paper or poster board

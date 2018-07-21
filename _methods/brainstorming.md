@@ -17,7 +17,8 @@ Although Osborn described unconstrained and unstructured ideation, we use a four
 The prompt of this method can influence the _challenge_ of generating ideas. We have used prompts that ask participants to identify: the current problems and successes of existing tools [P1]; the aspirations for envisioned visualization solutions [P1]; the good/bad aspects of current workflow [P3]; and the desired tasks and functionality of visualization solutions [P1]. The possibilities for prompts are practically infinite.
 
 #### Materials
-post-it notes, prompt
+- post-it notes
+- written prompt
 
 #### References
 - A. Osborn. Applied imagination: principles and procedures of creative

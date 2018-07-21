@@ -16,10 +16,10 @@ To lay a foundation for a creative atmosphere, we introduce guidelines for the w
 - Beware that facilitators may guide the conversation to stay on topic
 - Switch off all electronic devices
 
-Although this may be primarily passive, consider ways to encourage _agency_ and _interest_. For example, it could be modified by having participants create their own guidelines for creative participation.
+Although this method is primarily passive, consider ways to encourage _agency_ and _interest_. For example, it could be modified by having participants create their own guidelines for creative participation.
 
 #### Materials
-list of guidelines on slides or handouts
+- list of guidelines on slides or handouts
 
 #### References
 - A. Osborn. Applied imagination: principles and procedures of creative

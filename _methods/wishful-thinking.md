@@ -18,8 +18,9 @@ In the process of this method, we first introduce the prompt, and participants a
 We encourage participants to record answers to the know/see/do questions on different color post-it notes because each prompt provides information useful at different points in the design process. Participants describe analysis tasks that they would like _to do_ or envisaged insights they would like _to know_. Asking what participants would like _to see_ is often more of a _challenge_, but ensures that a _topic_ of visualization is established early.
 
 #### Materials
-written prompt with know/see/do questions; three colors of post-it notes for responses to each questions
+- written prompt with know/see/do questions
+- three colors of post-it notes for responses to each questions
 
 #### References
 - S. Goodwin, J. Dykes, S. Jones, I. Dillingham, G. Dove, D. Allison, A. Kachkaev, A. Slingsby, and J. Wood. Creative user-centered design for energy analysts and modelers. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2013.
-- M. J. Hicks.Problem Solving and Decision Making:  Hard,  Soft, and Creative Approaches. Thomson Learning, London, UK, 2004
+- M. J. Hicks. Problem Solving and Decision Making:  Hard,  Soft, and Creative Approaches. Thomson Learning, London, UK, 2004

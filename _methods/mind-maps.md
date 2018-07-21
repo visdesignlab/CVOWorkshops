@@ -13,4 +13,7 @@ Mind maps are sketched networks of related concepts ---  visual representations 
 This activity may come naturally to some participants but is likely to be more of a _challenge_ to others and so it is worth considering as an optional means of recording ideas or as a group activity with a designated _visual lead_ who coordinates the drawing.  These options may help us manage _challenge_ and vary levels of _collegiality_ associated with this activity.
 
 #### Materials
-paper, pens, visualization examples, scissors, glue, tape
+- paper
+- pens
+- visualization examples
+- scissors, glue, tape, etc.

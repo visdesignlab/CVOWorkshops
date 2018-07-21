@@ -22,7 +22,8 @@ The initial exercise gives participants time and space to act individually. Subs
 Although this method is primarily passive, participants report that it is engaging and inspiring to see the broad possibilities of visualization and relate visualization solutions to their problems.
 
 #### Materials
-vis. presentation + handouts with vis. images
+- vis. presentation 
+- handouts with vis. images
 
 #### References
 - S. Goodwin, J. Dykes, S. Jones, I. Dillingham, G. Dove, D. Allison, A. Kachkaev, A. Slingsby, and J. Wood. Creative user-centered design for energy analysts and modelers. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2013.

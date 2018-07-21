@@ -22,4 +22,6 @@ Leading by example and emphasizing that these are ‘fast forward’ style prese
 There are plenty of opportunities for creative spins on this approach given the particular context, environment and group dynamic. Another option is to ask participants to _"Draw a bar chart, pie chart or scatter plot that describes the way you are feeling?"_
 
 #### Materials
-flip chart, whiteboard, pens, projector
+- flip chart and/or whiteboard
+- pens
+- projector
