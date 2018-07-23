@@ -60,7 +60,7 @@ Here are pitfalls that we have encountered in the context of the framework's gui
 
 ### Revisit, reflect, and report on the workshop.
 
-**Methods don't matter.** --- When writing about the results of research projects, omiting details about the workshop methods, participants, and results means that we throw away useful knowledge about visualization design in practice. We strongly encourage researchers who use workshops in the future to reflect on whether the workshop helped to acheive their goals or how it could be improved. 
+**Methods don't matter.** --- When writing about the results of research projects, omiting details about the workshop methods, participants, and results means that we throw away useful knowledge about visualization design in practice. We strongly encourage researchers who use workshops in the future to reflect on whether the workshop helped to acheive their goals or how it could be improved. This valuable information can help the visualization community better understand how and why to use workshops.
 
 * * *
 
