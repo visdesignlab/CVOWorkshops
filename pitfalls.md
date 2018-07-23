@@ -58,6 +58,10 @@ Here are pitfalls that we have encountered in the context of the framework's gui
 
 **Don’t count on it.** --- Counting the frequency of ideas contained in the workshop artifacts is tempting, but it should be approached with caution because the frequency of an idea says little about its potential importance or impact. Consider qualitative analysis methods instead. Better yet, intertwine analysis into the workshop by asking participants to rank or evaluate ideas based on certain factors, e.g., potential impact, novelty, or development costs.
 
+### Revisit, reflect, and report on the workshop.
+
+**Methods don't matter.** --- When writing about the results of research projects, omiting details about the workshop methods, participants, and results means that we throw away useful knowledge about visualization design in practice. We strongly encourage researchers who use workshops in the future to reflect on whether the workshop helped to acheive their goals or how it could be improved. 
+
 * * *
 
 ## TACTICs
