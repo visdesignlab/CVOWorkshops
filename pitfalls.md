@@ -12,7 +12,7 @@ This page contains a list of pitfalls to avoid in future workshops. We document 
 
 ## Guidelines
 
-Here are pitfalls that we have encountered in the context of the framework's guidelines:
+Here are pitfalls that we have encountered in the context of the framework's guidelines.
 
 ### Recruit diverse and creative participants.
 
@@ -60,19 +60,19 @@ Here are pitfalls that we have encountered in the context of the framework's gui
 
 ### Revisit, reflect, and report on the workshop.
 
-**Methods don't matter.** --- When writing about the results of research projects, omiting details about the workshop methods, participants, and results means that we throw away useful knowledge about visualization design in practice. We strongly encourage researchers who use workshops in the future to reflect on whether the workshop helped to acheive their goals or how it could be improved. This valuable information can help the visualization community better understand how and why to use workshops.
+**Methods don't matter.** --- When writing about the results of research projects, omiting details about the workshop methods, participants, and results means that we throw away useful knowledge about visualization design in practice. We strongly encourage researchers to report and reflect on whether the workshop helped to acheive their goals or how it could be improved. This valuable information can help the visualization community better understand how and why to use workshops.
 
 * * *
 
 ## TACTICs
 
-During the Workshop Core, the six TACTICs are used to manage methods, and we can consider possible pitfalls by considering these aspects of the framework that support real-time planning.
+The six TACTICs for effective workshops pervade the CVO workshop framework. Here, we describe pitfalls related to each of the TACTICs.
 
 ### Topic
 
-**A sequence of irrelevant examples.** - Ordering visualization examples is important - failing to make successive examples domain relevant may mean that you lose the interest of participants. You may have some fantastic examples that you want to show them, but be sure to mix evidently relevant examples with those that are more obscure.
+**A sequence of irrelevant examples.** --- In methods that display visualization examples (e.g., visualization analogies), the order of visualization examples is important, and failing to make successive examples relevant to collaborators may reduce interest in the workshop. Although there are a wealth of visualizations that facilitators can show participants, we encourage mixing obscure visualizations with those that are more relevant to the workshop topic. This can maintain interest and potentially reduce the challenge of discovering analogies. 
 
-**Getting stuck in the details.** - These include characteristics of the technology, design, data or implementation. These distract from the bigger picture and can be addressed subsequently. Becoming too focused on the details of a visualization design too early in a workshop can close down thinking too soon - its important to focus first on what possibilities any new vis design opens up and might achieve - the requirements it’s trying to satisfy (problem space) - before digging down into the details of how to satisfy these requirements through the use of particular designs (solution space).
+**Getting stuck in the details.** --- Details about ideas should be approached with caution during the workshop. For example, discussions of the technology, design, data, or implementation can distract participants from the workshops theme. Becoming too focused on the details of a visualization design too early in a workshop can close down thinking too soon. It is important to focus first on what possibilities any new visualization design opens up and might achieve. Similarly, we also recommend that conversations focus on the problem space, as opposed to the solution space.
 
 **Me! Me! Me! Me! Me!** - Visualization examples should not be biased towards your own work too heavily. Show variety. Also examples should not be too complex or long - use short descriptions that allow participants to see structure in the data and then think about the patterns, the structure, the techniques, the possibilities.
 
