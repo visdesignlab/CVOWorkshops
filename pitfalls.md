@@ -42,17 +42,21 @@ Here are pitfalls that we have encountered in the context of the framework's gui
 
 **Colleagues lose focus.** --- In at least one workshop, we failed to set the expectations of co-facilitators adequately. During the first method of the day, all collaborators and cofacilitators were engaged and interested. As the day went on, cofacilitators who were not actively participating took out laptops and phones and started working on other activities. This was distracting. A number of participants also took out their laptops and phones. The expectations of no distracting laptops and phones should have been explicitly set and clearly communicated to participants and facilitators alike. 
 
+### Create physical and visual artifacts.
+
+**Generating artifacts with no longevity.** --- The artifacts created during the workshop express the needs, concerns, opinions, and aspirations of the workshop stakeholders. Merely generating the artifacts, however, is not sufficient for effective workshops. The artifacts should be organized in a way that allows the workshop outputs to be analyzed. We recommend that researchers consider the longevity of artifacts being produced. This can include asking participants to write legibility with the expectations that someone else is going to read their ideas eventually. More importantly, planning for longevity means selecting methods that organize the artifacts into a format that is easy to transport and revisit. For example, asking participants to cluster sticky notes onto large peices of paper can help preserve concepts that emerge from their physical ordering. 
+
 ### Encourage reflection for validation.
 
 **Forgetting the theme.** --- Use the workshop theme as the basis for discussion, learning, and continuing creative collaboration. Questions to consider for the workshop closing include: How well have you addressed the theme? Have the opportunities identified meant that it has expanded, contracted or shifted? Was it the right theme? Have other themes emerged? Failing to discuss the theme can fail to provide closure, and participants may leave the workshop wondering if their objectives have been achieved.
 
 ### Promote continued collaboration.
 
-**Looks like we’re done here - I’m off!** - Ending too abruptly without clarity over next steps is potentially disastrous. Everybody wants to get home at the end of the day, but effective workshops require agreement over next steps. So, rather than leaving participants confused, plan to finish early. But schedule the wrap up and make it clear that this is one of the most important sessions of the day. This will make it easier to analyze workshop output and promote continued collaboration.
+**Looks like we’re done here - I’m off!** --- Ending too abruptly without clarity over next steps is potentially disastrous. Everybody wants to get home at the end of the day, but effective workshops require agreement over next steps. So, rather than leaving participants confused, plan to finish early. But schedule the wrap up and make it clear that this is one of the most important sessions of the day. This will make it easier to analyze workshop output and promote continued collaboration.
 
 ### Analyse with and open mind.
 
-**Don’t count on it.** - Counting the frequency of ideas contained in the workshop artifacts is tempting, but it should be approached with caution because the frequency of an idea says little about its potential importance or impact. Consider qualitative analysis methods instead. Better yet, intertwine analysis into the workshop by asking participants to rank or evaluate ideas based on certain factors, e.g., potential impact, novelty, or development costs.
+**Don’t count on it.** --- Counting the frequency of ideas contained in the workshop artifacts is tempting, but it should be approached with caution because the frequency of an idea says little about its potential importance or impact. Consider qualitative analysis methods instead. Better yet, intertwine analysis into the workshop by asking participants to rank or evaluate ideas based on certain factors, e.g., potential impact, novelty, or development costs.
 
 * * *
 
