@@ -1,6 +1,6 @@
 # Creative Visualization-Opportunities Workshops
 
-Supplemental Material for the paper "A Framework for Creative Visualization-Opportunities Workshops" submitted to IEEE InfoVis, 2018.
+Supplemental Material for the paper "A Framework for Creative Visualization-Opportunities Workshops" to appear at IEEE InfoVis, 2018.
 
 ## Development
 
